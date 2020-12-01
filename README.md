@@ -1,15 +1,17 @@
 #laravel-auth-operation 
 
-#version: 8
-#database: mysql
+#version:
+         8
+#database: 
+        mysql
 
 ##Step 1: Install Laravel
 
-   composer create-project --prefer-dist laravel/laravel blog
+     composer create-project --prefer-dist laravel/laravel blog
    
 ##Step 2: Install Package
 
-  composer require laravel/passport
+     composer require laravel/passport
   
 ##open config/app.php file and add service provider.
 
