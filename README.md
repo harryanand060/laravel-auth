@@ -1,4 +1,7 @@
-#laravel-curd-operation
+#laravel-auth-operation 
+
+#version: 8
+#database: mysql
 
 ##Step 1: Install Laravel
 
