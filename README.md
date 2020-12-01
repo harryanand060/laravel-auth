@@ -205,9 +205,11 @@
     
  #TEST THE API
  
- localhost:8080/api/login
- localhost:8080/api/register
- localhost:8080/api/details
+        localhost:8080/api/login
+
+        localhost:8080/api/register
+        
+        localhost:8080/api/details
  
  
  
