@@ -1,10 +1,13 @@
 #laravel-auth-operation 
-
+  
 #version:
          8
 #database: 
         mysql
 
+      composer install
+    
+    
 ##Step 1: Install Laravel
 
      composer create-project --prefer-dist laravel/laravel blog
