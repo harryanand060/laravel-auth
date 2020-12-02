@@ -4,8 +4,18 @@
          8
 #database: 
         mysql
-
+        
+#clonning the project
+      git clone https://github.com/harryanand060/laravel-auth.git
+      
+#install
       composer install
+      php artisan migrate
+      php artisan passport:install
+      php artisan passport:keys
+      
+      
+      
     
     
 ##Step 1: Install Laravel
